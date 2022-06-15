@@ -1,13 +1,13 @@
 <script setup>
-const version = 2 + 1;
+const data_options = reactive({});
 </script>
 
 <template>
-  <main class="container prose">
+  <main class="container flex flex-col justify-center prose">
     <h1>Baby Name Generator</h1>
-    <p>Choose your options and click the "Find Names" buttom below</p>
+    <p>Choose your options and click the "Find Names" bottom below</p>
     <section
-      class="options-container bg-gradient-to-tr from-rose-200 to-violet-300 rounded-3xl p-4 shadow-md shadow-blue-900 w-[95%] mt-16 mb-8 relative"
+      class="options-container bg-gradient-to-tr from-rose-200 to-violet-300 rounded-3xl p-4 shadow-md shadow-blue-900 mt-16 mb-8 relative m-[2%]"
     >
       <div class="option-container">
         <h4>1) Choose a gender</h4>

@@ -1,3 +1,7 @@
+
+![Capture d’écran 2022-06-15 à 19 22 01](https://user-images.githubusercontent.com/78349294/173888026-d9f91e89-60e1-4bcb-916f-b2fbb600e972.png)
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
