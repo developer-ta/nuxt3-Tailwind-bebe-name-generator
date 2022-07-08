@@ -6,6 +6,8 @@
   .btn-primary {
     @apply py-2 px-4 m-1 outline outline-red-500 bg-indigo-50  outline-[0.15px]  border-none w-48 text-base font-extralight rounded-lg shadow-md hover:bg-red-600 focus:outline-none focus:ring-4 focus:ring-red-400 focus:ring-opacity-75;
   }
+  .btn-primary-active {
+  }
   .transition-hover {
     @apply transition duration-150  h-px w-full  mt-1 translate-y-full scale-0 group-hover:-translate-y-full group-hover:w-full group-hover:scale-100 bg-red-600;
   }
